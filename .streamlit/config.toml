@@ -1,0 +1,10 @@
+# Tema visual de la aplicación
+[theme]
+base = "light"
+primaryColor = "#91ad7d"
+backgroundColor = "#c1d1f0"
+secondaryBackgroundColor = "#E9EDF2"
+textColor = "#1C2B3A"
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+headingFont = "IBM Plex Serif:https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@500;600&display=swap"
+baseRadius = "small"
