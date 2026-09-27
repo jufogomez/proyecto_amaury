@@ -2,6 +2,7 @@
 Gráficas de la aplicación (matplotlib).
 Cada función devuelve una figura lista para mostrar con st.pyplot().
 """
+#suave
 
 import matplotlib
 
